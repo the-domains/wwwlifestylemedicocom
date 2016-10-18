@@ -1,17 +1,17 @@
-typography_spectrum: 0.16905999446075667
+layout_spectrum: 0.06407412672175629
+typography_spectrum: 0.2786588206456624
 color:
-  brandStrength: 0.45374674064448417
-  lightness: 0.002882834696810287
-  saturation: 0.488704399844484
-  rhythmicContrast: 0.9449024569631397
+  brandStrength: 0.8191552272217699
+  lightness: 0.9707120335778904
+  saturation: 0.8957167658388688
+  rhythmicContrast: 0.6248823230162189
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#FFFFFF'
+    - '#0166FF'
+    - '#2DEC22'
+    - '#747474'
+    - '#A8A8A8'
 github: true
-layout_spectrum: 0.06103863781677688
 author:
   name: Customer Service
   url: www.lifestylemedico.com
