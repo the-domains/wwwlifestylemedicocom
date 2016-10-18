@@ -39,4 +39,7 @@ content: []
 description: >-
   Your preferred provider of effective solutions for affordable prevention and
   management of lifestyle related ailments!
-purpose: []
+purpose:
+  - type: external
+    url: 'https://lifestylemedico.typeform.com/to/nMCt8X'
+    label: Products
