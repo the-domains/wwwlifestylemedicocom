@@ -1,0 +1,45 @@
+typography_spectrum: 0.16905999446075667
+color:
+  brandStrength: 0.45374674064448417
+  lightness: 0.002882834696810287
+  saturation: 0.488704399844484
+  rhythmicContrast: 0.9449024569631397
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+github: true
+layout_spectrum: 0.06103863781677688
+author:
+  name: Customer Service
+  url: www.lifestylemedico.com
+  email: cs@lifestylemedico.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7df96c-397d-4db4-ba1b-12e3abc6e548.svg
+name: Lifestyle Medico
+navigation:
+  - name: Contact Us
+    id: 69909339-239d-4640-a20c-b2faea8fd93a
+    type: content
+  - name: About Us
+    id: 4c3913fa-850e-4da6-8230-067dc08daf00
+    type: content
+  - name: Shop with Us
+    id: 7af005db-5059-481d-afe1-2d11a90911c7
+    type: content
+  - name: Our Partners
+    id: a8ff457d-6d5f-4076-9ee4-1d1cf9c68ed5
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03e645a-884b-4103-9a3a-7601a4ce7058.png
+title: Lifestyle Medico
+content: []
+description: >-
+  Your preferred provider of effective solutions for affordable prevention and
+  management of lifestyle related ailments!
+purpose:
+  - type: external
+    url: 'http://shopforbettersleep.com/36-shop-by-ailments'
+    label: Products
