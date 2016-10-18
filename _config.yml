@@ -16,7 +16,8 @@ author:
   name: Customer Service
   url: www.lifestylemedico.com
   email: cs@lifestylemedico.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33d6c814-b796-414c-b91b-611d324a51fd.png
 name: Lifestyle Medico
 navigation:
   - name: Contact Us
