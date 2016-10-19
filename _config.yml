@@ -29,6 +29,9 @@ navigation:
   - name: Our Partners
     id: a8ff457d-6d5f-4076-9ee4-1d1cf9c68ed5
     type: content
+  - name: Shop with us
+    url: 'http://thegrid.ai/lifestyle-medico/shop-with-us'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/00e8f17b-c24c-4b79-a849-fced117c7083.png
 title: Lifestyle Medico
