@@ -26,9 +26,6 @@ navigation:
   - name: Shop with Us
     id: 7af005db-5059-481d-afe1-2d11a90911c7
     type: content
-  - name: Our Partners
-    id: a8ff457d-6d5f-4076-9ee4-1d1cf9c68ed5
-    type: content
   - name: Shop with us
     url: 'http://thegrid.ai/lifestyle-medico/shop-with-us'
     type: external
