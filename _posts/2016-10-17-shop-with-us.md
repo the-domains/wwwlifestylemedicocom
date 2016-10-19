@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-19T05:49:35.520Z'
+datePublished: '2016-10-19T06:08:28.487Z'
 sourcePath: _posts/2016-10-17-shop-with-us.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-19T05:49:33.809Z'
+dateModified: '2016-10-19T06:08:27.763Z'
 title: Shop with us
 publisher: {}
 description: Shop for better sleep
 hasPage: true
-starred: false
+starred: true
 url: shop-with-us/index.html
 _type: Article
 
