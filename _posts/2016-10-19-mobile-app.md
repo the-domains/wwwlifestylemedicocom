@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-19T08:49:40.151Z'
+datePublished: '2016-10-19T08:50:13.961Z'
 sourcePath: _posts/2016-10-19-mobile-app.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-19T08:49:39.385Z'
+dateModified: '2016-10-19T08:50:13.136Z'
 title: Mobile App
 publisher: {}
 description: Track and control the mode by using the App
