@@ -29,6 +29,9 @@ navigation:
   - name: Our partners
     url: thegrid.ai/lifestyle-medico/our-partners
     type: external
+  - name: dfg
+    url: sdf
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/00e8f17b-c24c-4b79-a849-fced117c7083.png
 title: Lifestyle Medico
