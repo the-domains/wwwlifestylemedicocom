@@ -20,9 +20,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/620d66a4-fe53-46c1-a400-7254791a87f2.png
 name: Lifestyle Medico
 navigation:
-  - name: Shop with Us
-    id: 7af005db-5059-481d-afe1-2d11a90911c7
-    type: content
   - name: Our Partners
     id: a8ff457d-6d5f-4076-9ee4-1d1cf9c68ed5
     type: content
