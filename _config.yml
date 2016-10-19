@@ -1,4 +1,3 @@
-layout_spectrum: 0.06407412672175629
 typography_spectrum: 0.2786588206456624
 color:
   brandStrength: 0.8191552272217699
@@ -12,6 +11,7 @@ color:
     - '#747474'
     - '#A8A8A8'
 github: true
+layout_spectrum: 0.06407412672175629
 author:
   name: Customer Service
   url: www.lifestylemedico.com
@@ -20,9 +20,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/620d66a4-fe53-46c1-a400-7254791a87f2.png
 name: Lifestyle Medico
 navigation:
-  - name: Contact Us
-    id: 69909339-239d-4640-a20c-b2faea8fd93a
-    type: content
   - name: About Us
     id: 4c3913fa-850e-4da6-8230-067dc08daf00
     type: content
