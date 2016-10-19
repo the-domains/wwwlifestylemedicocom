@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-19T06:08:20.190Z'
+datePublished: '2016-10-19T06:08:22.709Z'
 sourcePath: _posts/2016-10-17-our-partner.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T06:08:19.318Z'
+dateModified: '2016-10-19T06:08:22.004Z'
 title: Our Partners
 publisher: {}
 description: Medisana
