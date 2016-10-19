@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-19T03:26:32.942Z'
+datePublished: '2016-10-19T03:34:05.518Z'
+sourcePath: _posts/2016-10-19-relaxes-tense-muscles.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-19T03:23:43.154Z'
+dateModified: '2016-10-19T03:34:04.450Z'
 title: Relaxes tense muscles
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-10-19-relaxes-tense-muscles.md
 _type: Blurb
 
 ---
