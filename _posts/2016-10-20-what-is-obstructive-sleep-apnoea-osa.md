@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-20T03:48:38.805Z'
+datePublished: '2016-10-20T04:10:44.949Z'
 sourcePath: _posts/2016-10-20-what-is-obstructive-sleep-apnoea-osa.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-20T03:48:37.818Z'
-title: What is Obstructive sleep apnoea (OSA)?
+dateModified: '2016-10-20T04:10:44.168Z'
+title: What is Obstructive Sleep Apnoea (OSA)?
 publisher: {}
 description: 'There are two types of breathing interruption characteristic of OSA:'
 starred: false
@@ -13,15 +13,14 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# What is Obstructive sleep apnoea (OSA)?
-![
-](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e42be2f-5320-4f4a-85ae-080f9d46c72d.jpg)
+# What is Obstructive Sleep Apnoea (OSA)?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e42be2f-5320-4f4a-85ae-080f9d46c72d.jpg)
 
 There are two types of breathing interruption characteristic of OSA:
 
-apnoea -- where the muscles and soft tissues in the throat relax and collapse sufficiently to cause a total blockage of the airway; it's called an apnoea when the airflow is blocked for 10 seconds or more
+_**apnoea**_ -- where the muscles and soft tissues in the throat relax and collapse sufficiently to cause a total blockage of the airway; it's called an apnoea when the airflow is blocked for 10 seconds or more
 
-hypopnoea -- a partial blockage of the airway that results in an airflow reduction of greater than 50% for 10 seconds or more
+_**hypopnoea**_ -- a partial blockage of the airway that results in an airflow reduction of greater than 50% for 10 seconds or more
 
 People with OSA may experience repeated episodes of apnoea and hypopnoea throughout the night. These events may occur around once every one or two minutes in severe cases.
 
