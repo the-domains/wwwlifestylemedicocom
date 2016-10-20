@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-20T01:15:37.819Z'
+datePublished: '2016-10-20T01:20:22.756Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-20T01:14:45.479Z'
+dateModified: '2016-10-20T01:20:21.430Z'
 title: Shop with us
 publisher: {}
 description: Shop for better sleep
-starred: false
 sourcePath: _posts/2016-10-20-shop-with-us.md
+starred: false
 _type: Blurb
 
 ---
