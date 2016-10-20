@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-10-20T01:20:22.756Z'
+datePublished: '2016-10-20T01:20:34.445Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-20T01:20:21.430Z'
+dateModified: '2016-10-20T01:20:33.617Z'
 title: Shop with us
 publisher: {}
 description: Shop for better sleep
