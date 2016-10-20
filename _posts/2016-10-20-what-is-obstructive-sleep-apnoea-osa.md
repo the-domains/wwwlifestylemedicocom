@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-10-20T03:28:18.581Z'
+datePublished: '2016-10-20T03:28:39.244Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-20T03:25:37.285Z'
+dateModified: '2016-10-20T03:28:38.493Z'
 title: |
   What is Obstructive sleep apnoea (OSA)?
 publisher: {}
@@ -35,8 +35,8 @@ description: >+
   such as central sleep apnoea, which is caused by the brain not sending signals
   to the breathing muscles during sleep.
 
-starred: false
 sourcePath: _posts/2016-10-20-what-is-obstructive-sleep-apnoea-osa.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
