@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-20T01:15:37.835Z'
+datePublished: '2016-10-20T01:18:38.792Z'
+sourcePath: _posts/2016-10-20-our-partners.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-20T01:14:27.622Z'
+dateModified: '2016-10-20T01:18:37.856Z'
 title: Our Partners
 publisher: {}
 description: Medisana
 starred: false
-sourcePath: _posts/2016-10-20-our-partners.md
 _type: Blurb
 
 ---
@@ -16,20 +16,10 @@ _type: Blurb
 
 Medisana
 
-CPAP
-
 Jusmine
 
 DeVilbiss
 
-SleepOne
-
 AVEOtsd
 
 Sleep Shepherd Blue
-
-Medel
-
-iThermonitor
-
-iFertracker
